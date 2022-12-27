@@ -1,15 +1,13 @@
-# Boilerplate CRUD API
+# To Do Application
 
-## Development Interview Round
-
-The aim of this project is to build a simple REST API using Django framework.
+The aim of this project is to build a To Do Application using Django REST Framework and Vanilla JS.
 
 ## Getting Started
 
 First clone the repository from Github and switch to the new directory:
 
-    $ git clone https://github.com/praty-1698/<NEW-REPO>
-    $ cd NEW-REPO
+    $ git clone https://github.com/praty-1698/todo-app-django.git
+    $ cd todo-app-django
     
 Activate the virtualenv for your project.
 
